@@ -18,9 +18,11 @@
   * *Material:* Powder-coated steel or PVC slat-wall panels with heavy-duty hooks/baskets; a ceiling-mounted overhead storage rack rated to 600 lbs.
   * *Sourcing:* Direct commercial accounts with garage-storage OEM suppliers (e.g., Gladiator, NewAge, StoreWALL) or regional steel service centers. Pre-sized panels to eliminate job-site cutting.
   * *Anchoring:* Wall panels secured to studs via 1/4" structural lag screws; overhead rack secured to ceiling joists via rated lag bolts, load-tested before handoff.
+  * *Wear-Point Hardware:* The overhead rack's quick-pin engagement holes and slat-wall hook contact points spec'd with nylon/Delrin bushings/sleeves rather than bare coated-metal-on-metal. Given garage humidity and road-salt tracked in on vehicles, contact points additionally spec galvanized (not just powder-coated) steel — coating wear here is a real rust risk, not just cosmetic.
 * **Tier 2 (The Modular Cabinet System):**
   * *Material:* Powder-coated steel modular cabinets, adjustable shelving, pegboard tool-wall inserts.
   * *Sourcing:* Commercial OEM storage suppliers (e.g., NewAge Products, Gladiator, Husky) at 40–50% off retail.
+  * *Wear-Point Hardware:* Bracket clips and shelving contact points spec'd with nylon/Delrin bushings; galvanized substrate at contact zones given garage humidity/road salt exposure.
 * **Tier 3 (The Workshop Suite):**
   * *Substrates:* 3/4" Thermally Fused Laminate (TFL) over industrial-grade MDF (80% of builds to eliminate on-site painting/finishing), with a butcher-block or stainless workbench top.
   * *Sourcing:* 4'x8' sheets via regional architectural panel suppliers; workbench hardware (vise, power strip) via commercial tool distributor.
@@ -143,3 +145,4 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 * **Lifetime Structural Guarantee:** Covers wall anchoring integrity, slat-wall/track failure, overhead rack anchoring, and structural joinery for homeownership duration.
 * **5-Year Mechanical Warranty:** Covers soft-close drawer slides, hinges, workbench vise mount, and edge-banding.
 * **Weight Limits:** 150 lbs/linear foot for Tier 1 wall track; 120 lbs/linear foot for Tiers 2 & 3; overhead rack rated to 600 lbs total load, independently load-tested per install.
+* **Coating Wear Exclusion:** Powder-coat wear at moving contact points (overhead rack pins, slat-wall hooks, bracket clips) is cosmetic and excluded from the Lifetime Structural Guarantee where galvanized substrate is used at the contact zone (per the humidity/road-salt sourcing spec above); the rack's load rating is unaffected either way. Field techs carry a touch-up powder-coat pen for warranty-visit spot repair.
